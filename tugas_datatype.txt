@@ -1,0 +1,6 @@
+let length = 16; //JS number type
+let lastname = "Johnson"; // JS string type
+const x = {
+    firtsname : "john";
+    last name : "doe"; 
+}; // JS object type
