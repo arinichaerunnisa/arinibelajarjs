@@ -5,6 +5,6 @@ value="Click Here!"
 onclick="SayHello()"
 
 function SayHello() { 
-alert("Hello World!")
+("Hello World!")
 };
-console.log(onclick.SayHello()) // bukan fungsi dalam node js jadi tidak terbaca
+console.log(SayHello()) 

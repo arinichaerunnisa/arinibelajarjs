@@ -1,5 +1,4 @@
-
-console.log(1000);
-console.log(15.2);
-console.log("Eduwork Single");
-console.log("Eduwork Double");
+var variable_satu = 10;
+var variable_dua = "saya belajar javascript";
+var x = (variable_satu + " " + variable_dua);
+console.log(x);
